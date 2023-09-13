@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jyun-Han
 - 👀 I’m interested in X-ray cavities study including detectability, its evolution, and comparing their timescales in simulation to those in observation. 
 - 🌱 I’m currently learning coding for Fortran and Python.
-- 🌱 I'm studying the astronomy in National Tsing Hua University
+- 🌱 I'm studying astronomy at National Tsing Hua University
 - 📫 The following is my email address: tg0616like@gmail.com
 
 <!---
