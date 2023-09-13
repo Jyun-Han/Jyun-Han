@@ -1,4 +1,4 @@
--👋 Hi, I’m Jyun-Han
+- 👋 Hi, I’m Jyun-Han
 - 👀 I’m interested in X-ray cavities study including detectability, its evolution, and comparing their timescales in simulation to those in observation. 
 - 🌱 I’m currently learning coding for Fortran and Python.
 - 🌱 I'm studying astronomy at National Tsing Hua University
